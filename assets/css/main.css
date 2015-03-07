@@ -6,6 +6,11 @@
  * URL: http://blacktie.co
  */
 
+
+ h1, h3 {
+  text-shadow: 1px 1px #1d1d1d;
+}
+
 body {
   background-color: #f2f2f2;
     font-family: "Lato";
